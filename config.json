@@ -1,0 +1,7 @@
+{
+  "cookie":"",
+  "budibaseUrl": "http://localhost:10000",
+  "defaultRole": "BASIC",
+  "appId":"",
+  "importCsv": "./data/users.txt"
+}

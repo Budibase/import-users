@@ -1,0 +1,16 @@
+{
+  "name": "import-users",
+  "version": "1.0.0",
+  "description": "script to import users into Budibase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Shanks",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "node-fetch": "^2.6.5",
+    "papaparse": "^5.3.1"
+  }
+}

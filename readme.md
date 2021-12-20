@@ -44,14 +44,7 @@ You will need
 ### Entering your email addresses
 
 1. Inside this project, is a file `./data/users.txt`
-2. Copy all email addresses into here, seperated by a new line e.g.
-
-michael@acme.com
-
-jennifer@acme.com
-
-oliver@acme.com
-
+2. Copy all email addresses into here, seperated by a new line. 
 3. Save the file
 
 ### Add your Budibase URL to config

@@ -47,7 +47,9 @@ You will need
 2. Copy all email addresses into here, seperated by a new line e.g.
 
 michael@acme.com
+
 jennifer@acme.com
+
 oliver@acme.com
 
 3. Save the file
